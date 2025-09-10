@@ -70,7 +70,11 @@
 <br><br>
 
 
-> 📗 숙소 예약 페이지 - 대실 예약
+> 📗 숙소 예약 페이지 - 비로그인 상태에서 예약 버튼 클릭 시 로그인 페이지로 이동
+>> <img width="773" height="406" alt="image" src="https://github.com/user-attachments/assets/f045b1c0-ec41-485f-a252-2bd3dde478ed" /> <br><br>
+
+
+> 📗 숙소 예약 페이지 - 대실 예약 
 
 <br><br>
 
