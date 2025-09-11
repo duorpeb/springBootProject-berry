@@ -3,6 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=berry">
 
 
+> # 💡 프로젝트 소개 
+🖥️ 크롤링과 여러 API 를 활용해 숙박 예약 웹 사이트를 제작해보았습니다.
+<br><br><br><br><br>
+
 ### 🖥️ 스크린샷
 
 > 📗 메인 페이지 - １) 관광지 슬라이드  
@@ -112,11 +116,6 @@
 
 > 📗 마이 페이지 - 예약 정보 확인
 >> <img width="1200" height="463" alt="image" src="https://github.com/user-attachments/assets/b3883f26-fbce-4ec9-954c-e9d0f530535a" />
-<br><br><br><br><br>
-
-
-> # 💡 프로젝트 소개 
-🖥️ 크롤링과 여러 API 를 활용해 숙박 예약 웹 사이트를 제작해보았습니다.
 <br><br><br><br><br>
 
 
