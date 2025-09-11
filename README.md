@@ -794,6 +794,18 @@ https://www.erdcloud.com/d/m9NQyF3esKyLnmCAN
 <br><br><br>
 
 
+### 🖥️ 쿠폰 생성 · 삭제 · 할인 적용 기능 구현 (쿠폰 생성 · 삭제는 관리자 페이지에서 구현) 
+<br>
+
+> **📗 결제 페이지에서의 쿠폰 적용 - 최소 결제 금액을 만족하지 못하는 경우 사용 가능한 쿠폰의 표시는 되지만 할인 적용은 불가능**  
+
+<img width="900" height="598" alt="image" src="https://github.com/user-attachments/assets/f1143f2e-f896-4cb6-b9bd-dc61f3f0943a" /> <br><br><br>
+
+> **📗 결제 페이지에서의 쿠폰 적용 - 최소 결제 금액을 만족하는 경우 할인 적용 가능**
+
+<img width="900" height="494" alt="image" src="https://github.com/user-attachments/assets/472e5d59-0a26-45fe-ac39-15501b86336a" /> <br><br><br>
+
+
 ### 🖥️ 관리자 페이지의 UI 디자인 및 기능 구현  
 <br>
 
@@ -846,6 +858,19 @@ https://www.erdcloud.com/d/m9NQyF3esKyLnmCAN
 > **📗 관리자 페이지 - 쿠폰 관리 : 생성한 쿠폰의 관리 (e.g., 첫 회원가입 할인 쿠폰)**
 
 <img width="1050" height="694" alt="image" src="https://github.com/user-attachments/assets/4b476118-ce7e-4e31-9ef5-2a7e4716f67a" /> <br><br><br>
+
+
+
+
+
+
+
+### 🖥️ 예약 시스템 구현 
+
+  - 팀 회의를 통해 room TABLE 의 stock_count 라는 변수를 두어 stock_count 로 대실 · 숙박 예약의 객실 수에 제한을 두고 stock_count 가 0 이 아닌 경우에만 예약이 가능 (예약이 성공적으로 완료된 경우 stock_count - 1) 
+
+  - 각 숙소의 객실 이용 가능 시간만큼만 대실 예약을 가능하게 하고 예약하려는 시간대에 예약이 이미 되어있는 경우 이용 시간 버튼 비활성화   
+
 
 
 ### 🖥️ 숙소 예약 시 로그인하지 않은 유저의 페이지 이동 (숙소 상세 조회 페이지 → 로그인 페이지 → 숙소 상세 조회 페이지, 웹 로그인의 경우에만) 
