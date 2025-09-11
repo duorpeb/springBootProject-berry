@@ -5,7 +5,7 @@
 
 ### 🖥️ 스크린샷
 
-> 📗 메인 페이지 - １) 슬라이드  
+> 📗 메인 페이지 - １) 관광지 슬라이드  
 >> <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/8a5da4a6-0a1a-401e-8de9-7ffaf42a4ba1" />
 
 <br><br>
@@ -15,7 +15,7 @@
 
 <br><br>
 
-> 📗 메인 페이지 - ３) 슬라이드 및 검색
+> 📗 메인 페이지 - ３) 검색 (배경 사진 자동 슬라이드)
 >> <img width="1200" height="855" alt="image" src="https://github.com/user-attachments/assets/4d2df06e-39f1-41a6-a2d6-01300453710c" />
 
 <br><br>
@@ -71,27 +71,58 @@
 
 
 > 📗 숙소 예약 페이지 - 비로그인 상태에서 예약 버튼 클릭 시 로그인 페이지로 이동
->> <img width="773" height="406" alt="image" src="https://github.com/user-attachments/assets/f045b1c0-ec41-485f-a252-2bd3dde478ed" /> <br><br>
-
-
-> 📗 숙소 예약 페이지 - 대실 예약 
-
+>> <img width="773" height="406" alt="image" src="https://github.com/user-attachments/assets/f045b1c0-ec41-485f-a252-2bd3dde478ed" />
 <br><br>
 
-> 📗 숙소 예약 페이지 - 숙박 예약 
 
+> 📗 숙소 대실 예약 페이지 (본인 인증이 미완료된 경우) - 본인 인증 미완료 시 예약이 불가능하며 본인 인증 버튼 클릭 시 마이페이지로 이동하여 본인 인증 진행 
+>> <img width="739" height="739" alt="image" src="https://github.com/user-attachments/assets/b4df4924-cfa3-443e-a8fb-43282e69f96e" />
 <br><br>
 
-> 📗 
 
 
+> 📗 숙소 대실 예약 페이지 (본인 인증이 완료된 경우) - 이용 시간 선택 전
+>> <img width="781" height="392" alt="image" src="https://github.com/user-attachments/assets/240c26e4-0cd1-4391-ac64-9d034be8997f" />
+<br><br>
 
+> 📗 숙소 대실 예약 페이지 (본인 인증이 완료된 경우) - 이용 시간 선택 후 
+>> <img width="789" height="391" alt="image" src="https://github.com/user-attachments/assets/91343647-6322-4971-8bcb-3bda6da7af61" />
+<br><br>
+
+> 📗 숙소 대실 예약 페이지 (본인 인증이 완료된 경우) - 예약자 정보 · 할인 적용 · 최종 결제 금액
+>> <img width="798" height="632" alt="image" src="https://github.com/user-attachments/assets/91513095-5bfd-42fb-9386-cb0faedcd286" />
+<br><br>
+
+> 📗 숙소 대실 예약 페이지 (본인 인증이 완료된 경우) - 약관 동의 · 결제 수단 
+>> <img width="791" height="536" alt="image" src="https://github.com/user-attachments/assets/6738c6fe-1cfc-478a-9663-f91688004e58" />
+<br><br>
+
+> 📗 숙소 숙박 예약 페이지 (본인 인증이 완료된 경우) - 이용 시간을 제외한 모든 부분이 대실 예약 페이지와 동일
+>> <img width="786" height="223" alt="image" src="https://github.com/user-attachments/assets/098e82be-2b77-4e92-84ce-286f3f280570" />
+<br><br>
+
+> 📗 숙소 결제 페이지 - 결제하기 버튼 클릭 시 로드되는 모달
+>> <img width="627" height="624" alt="image" src="https://github.com/user-attachments/assets/24c6d354-bd8c-476c-9810-4831a1371426" />
+<br><br>
+
+> 📗 숙소 결제 페이지 - 결제 완료 페이지
+>> <img width="1200" height="599" alt="image" src="https://github.com/user-attachments/assets/b56aec5f-4f90-4316-857d-c87419c34585" />
+<br><br>
+
+
+> 📗 마이 페이지 - 예약 정보 확인
+>> <img width="1200" height="463" alt="image" src="https://github.com/user-attachments/assets/b3883f26-fbce-4ec9-954c-e9d0f530535a" />
 <br><br><br><br><br>
 
 
 > # 💡 프로젝트 소개 
 🖥️ 크롤링과 여러 API 를 활용해 숙박 예약 웹 사이트를 제작해보았습니다.
+<br><br><br><br><br>
 
+
+> # 💡 팀 프로젝트 발표 PPT
+### 🖥️ 링크 
+https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 <br><br><br><br><br>
 
 
@@ -101,7 +132,12 @@
 
 ### 🖥️ 개발 인원 
 6명 
+<br><br><br><br><br>
 
+
+> # 💡 ERD 
+### 🖥️ 링크 
+https://www.erdcloud.com/d/m9NQyF3esKyLnmCAN
 <br><br><br><br><br>
 
 
@@ -158,7 +194,6 @@
 
 <!-- Utils / Test -->
 <img src="https://img.shields.io/badge/Lombok-CA4245?style=for-the-badge"/> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/WebDriverManager-2C3E50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Thumbnailator-2ECC71?style=for-the-badge"/> <img src="https://img.shields.io/badge/log4jdbc-34495E?style=for-the-badge"/>
-   
 <br><br><br><br><br>
 
 
@@ -712,11 +747,210 @@
 
 > # 💡개인 역할 및 기여 
 
-### 🖥️ 
+### 🖥️ DB 설계 - 결제 (payment_before_payment, payment_cancel, payment_receipt) · 예약 (reservation) · 쿠폰 (cupon, cupon_template)
+<br>
+
+> **📗 결제 TABLE**
+
+<img width="863" height="452" alt="image" src="https://github.com/user-attachments/assets/56aa957b-4874-4893-a65a-e37060a21b94" /> <br><br><br>
+
+> **📗 예약 TABLE**
+
+<img width="374" height="285" alt="image" src="https://github.com/user-attachments/assets/dec85b66-b5b4-4187-ab8e-d9da757c614c" /> <br><br><br>
+
+
+> **📗 쿠폰 TABLE**
+
+<img width="435" height="516" alt="image" src="https://github.com/user-attachments/assets/76faedb4-6639-4882-a908-232e8e982546" /> <br><br><br>
+
+
+### 🖥️ 결제 페이지의 UI 디자인 및 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 를 이용한 결제 (결제 · 환불) 기능 구현 
+<br>
+
+> **📗 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 를 활용한 결제 구현 (<img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 에서 제공하는 모달창)** 
+
+<img width="600" height="624" alt="image" src="https://github.com/user-attachments/assets/24c6d354-bd8c-476c-9810-4831a1371426" /> <br><br>
+
+<img width="600" height="620" alt="image" src="https://github.com/user-attachments/assets/9173e73c-5567-49ce-bb7d-0b7d7efd5993" /> <br><br>
+
+<img width="416" height="477" alt="image" src="https://github.com/user-attachments/assets/d5f9dc4b-c28e-43c9-8571-d96795678a0b" /> <br><br><br>
+
+> **📗 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 를 활용한 환불 구현 (마이페이지의 예약 정보에서 예약취소 버튼을 눌러 환불 진행)** 
+
+<img width="600" height="698" alt="image" src="https://github.com/user-attachments/assets/f7276eba-2ed8-4b90-a666-3c6de428a5d3" /> <br><br>
+
+<img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/0c89e526-e847-47f7-abb2-f6659f2be76e" /> <br><br>
+
+<img width="600" height="164" alt="image" src="https://github.com/user-attachments/assets/5cb0d7fa-c146-4f74-ae1e-18e40da93384" /> <br><br><br>
+
+> **📗 환불 정책**
+
+  1. 체크인 2주 전 혹은 당일 예약 후 1시간 이내 취소는 100% 환불
+
+  2. 체크인 1주 전 취소는 50% 환불
+     
+  3. 체크인 3일 전은 취소 불가
+
+<br><br><br>
+
+
+### 🖥️ 관리자 페이지의 UI 디자인 및 기능 구현  
+<br>
+
+> **📗 사이드바 초기화면**
+
+<img width="231" height="812" alt="image" src="https://github.com/user-attachments/assets/8ae12bac-721a-4c5e-9b4c-2f015df5558f" /> <br><br><br>
+
+> **📗 사이드바 모두 폴드 시**
+
+<img width="243" height="317" alt="image" src="https://github.com/user-attachments/assets/94f7dec2-6246-4c55-adb4-6f6513af1951" /> <br><br><br>
+
+> **📗 관리자 페이지 - 전체 유저 정보 출력**
+
+<img width="1050" height="544" alt="image" src="https://github.com/user-attachments/assets/f23b831d-8eee-4bc0-8d36-3016c943bb98" /> 
+<img width="1050" height="481" alt="image" src="https://github.com/user-attachments/assets/17b0cb55-fe11-4df0-9245-8abfc5637988" /> <br><br><br>
+
+> **📗 관리자 페이지 - 고객 문의 관리**
+
+<img width="1050" height="785" alt="image" src="https://github.com/user-attachments/assets/ba9a3d96-524f-437f-8845-385713004363" /> 
+<img width="1050" height="772" alt="image" src="https://github.com/user-attachments/assets/915c1bfa-5156-4e2b-87cf-7d35276eaf1e" /> <br><br><br>
+
+> **📗 관리자 페이지 - 결제 관리**
+
+<img width="1050" height="573" alt="image" src="https://github.com/user-attachments/assets/273a444e-58a5-48d6-af81-9e2a2cadab42" />
+<img width="1050" height="582" alt="image" src="https://github.com/user-attachments/assets/f8052b20-bbe6-4712-98ec-b7c34b3f4b78" /> <br><br><br>
+
+> **📗 관리자 페이지 - 리뷰 관리**
+
+<img width="1050" height="304" alt="image" src="https://github.com/user-attachments/assets/4590662b-9465-4c3d-bac4-07f13fc555b7" /> 
+<img width="906" height="306" alt="image" src="https://github.com/user-attachments/assets/b3c0100d-925a-40b2-9627-fb025bede7e6" /> <br><br><br>
+
+> **📗 관리자 페이지 - 예약 내역 관리 : 예약 완료 내역**
+
+<img width="1050" height="579" alt="image" src="https://github.com/user-attachments/assets/912b445f-e5d7-4ca7-bd54-6c6bfc1efba0" />
+<img width="1050" height="569" alt="image" src="https://github.com/user-attachments/assets/834758be-c4c4-47a7-ac75-91f50abeea33" /> <br><br><br>
+
+> **📗 관리자 페이지 - 예약 내역 관리 : 숙소별 정보** 
+
+<img width="1050" height="656" alt="image" src="https://github.com/user-attachments/assets/fb136722-727d-44de-bf14-cec50454a787" />
+<img width="1050" height="657" alt="image" src="https://github.com/user-attachments/assets/3be27c10-a364-4da0-853d-42ae0454daa9" /> <br><br><br>
+
+> **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 생성**
+
+<img width="1050" height="729" alt="image" src="https://github.com/user-attachments/assets/ea506922-e8a7-4bca-bd2c-6456ccc6f667" /> <br><br><br>
+
+> **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 발급 및 삭제**
+
+<img width="904" height="439" alt="image" src="https://github.com/user-attachments/assets/bff886ec-2669-432c-80b3-cfa4aa8aac9d" /> <br><br><br>
+
+> **📗 관리자 페이지 - 쿠폰 관리 : 생성한 쿠폰의 관리 (e.g., 첫 회원가입 할인 쿠폰)**
+
+<img width="1050" height="694" alt="image" src="https://github.com/user-attachments/assets/4b476118-ce7e-4e31-9ef5-2a7e4716f67a" /> <br><br><br>
+
+
+### 🖥️ 숙소 예약 시 로그인하지 않은 유저의 페이지 이동 (숙소 상세 조회 페이지 → 로그인 페이지 → 숙소 상세 조회 페이지, 웹 로그인의 경우에만) 
+
+### 🖥️ <img src="https://img.shields.io/badge/flatpickr-6C757D?style=for-the-badge"/> 를 활용해 검색 바의 기간 입력 부분 디자인  
 
 <br><br><br><br><br>
 
 
 > # 💡 프로젝트 소감
  
+### **1. 결제 기능의 구현** 
 
+  - PRG 패턴<img width="600" height="164" alt="image" src="https://github.com/user-attachments/assets/5cb0d7fa-c146-4f74-ae1e-18e40da93384" /> <br><br><br>
+
+> **📗 환불 정책**
+
+  1. 체크인 2주 전 혹은 당일 예약 후 1시간 이내 취소는 100% 환불
+
+  2. 체크인 1주 전 취소는 50% 환불
+     
+  3. 체크인 3일 전은 취소 불가
+
+<br><br><br>
+
+
+### 🖥️ 관리자 페이지의 UI 디자인 및 기능 구현  
+<br>
+
+> **📗 사이드바 초기화면**
+
+<img width="231" height="812" alt="image" src="https://github.com/user-attachments/assets/8ae12bac-721a-4c5e-9b4c-2f015df5558f" /> <br><br><br>
+
+> **📗 사이드바 모두 폴드 시**
+
+<img width="243" height="317" alt="image" src="https://github.com/user-attachments/assets/94f7dec2-6246-4c55-adb4-6f6513af1951" /> <br><br><br>
+
+> **📗 관리자 페이지 - 전체 유저 정보 출력**
+
+<img width="1050" height="544" alt="image" src="https://github.com/user-attachments/assets/f23b831d-8eee-4bc0-8d36-3016c943bb98" /> 
+<img width="1050" height="481" alt="image" src="https://github.com/user-attachments/assets/17b0cb55-fe11-4df0-9245-8abfc5637988" /> <br><br><br>
+
+> **📗 관리자 페이지 - 고객 문의 관리**
+
+<img width="1050" height="785" alt="image" src="https://github.com/user-attachments/assets/ba9a3d96-524f-437f-8845-385713004363" /> 
+<img width="1050" height="772" alt="image" src="https://github.com/user-attachments/assets/915c1bfa-5156-4e2b-87cf-7d35276eaf1e" /> <br><br><br>
+
+> **📗 관리자 페이지 - 결제 관리**
+
+<img width="1050" height="573" alt="image" src="https://github.com/user-attachments/assets/273a444e-58a5-48d6-af81-9e2a2cadab42" />
+<img width="1050" height="582" alt="image" src="https://github.com/user-attachments/assets/f8052b20-bbe6-4712-98ec-b7c34b3f4b78" /> <br><br><br>
+
+> **📗 관리자 페이지 - 리뷰 관리**
+
+<img width="1050" height="304" alt="image" src="https://github.com/user-attachments/assets/4590662b-9465-4c3d-bac4-07f13fc555b7" /> 
+<img width="906" height="306" alt="image" src="https://github.com/user-attachments/assets/b3c0100d-925a-40b2-9627-fb025bede7e6" /> <br><br><br>
+
+> **📗 관리자 페이지 - 예약 내역 관리 : 예약 완료 내역**
+
+<img width="1050" height="579" alt="image" src="https://github.com/user-attachments/assets/912b445f-e5d7-4ca7-bd54-6c6bfc1efba0" />
+<img width="1050" height="569" alt="image" src="https://github.com/user-attachments/assets/834758be-c4c4-47a7-ac75-91f50abeea33" /> <br><br><br>
+
+> **📗 관리자 페이지 - 예약 내역 관리 : 숙소별 정보** 
+
+<img width="1050" height="656" alt="image" src="https://github.com/user-attachments/assets/fb136722-727d-44de-bf14-cec50454a787" />
+<img width="1050" height="657" alt="image" src="https://github.com/user-attachments/assets/3be27c10-a364-4da0-853d-42ae0454daa9" /> <br><br><br>
+
+> **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 생성**
+
+<img width="1050" height="729" alt="image" src="https://github.com/user-attachments/assets/ea506922-e8a7-4bca-bd2c-6456ccc6f667" /> <br><br><br>
+
+> **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 발급 및 삭제**
+
+<img width="904" height="439" alt="image" src="https://github.com/user-attachments/assets/bff886ec-2669-432c-80b3-cfa4aa8aac9d" /> <br><br><br>
+
+> **📗 관리자 페이지 - 쿠폰 관리 : 생성한 쿠폰의 관리 (e.g., 첫 회원가입 할인 쿠폰)**
+
+<img width="1050" height="694" alt="image" src="https://github.com/user-attachments/assets/4b476118-ce7e-4e31-9ef5-2a7e4716f67a" /> <br><br><br>
+
+
+### 🖥️ 숙소 예약 시 로그인하지 않은 유저의 페이지 이동 (숙소 상세 조회 페이지 → 로그인 페이지 → 숙소 상세 조회 페이지, 웹 로그인의 경우에만) 
+
+### 🖥️ <img src="https://img.shields.io/badge/flatpickr-6C757D?style=for-the-badge"/> 를 활용해 검색 바의 기간 입력 부분 디자인  
+
+<br><br><br><br><br>
+
+
+> # 💡 프로젝트 소감
+ 
+### **1. 결제 기능의 구현** 
+
+  - DB 설계 
+
+  - PRG 패턴
+
+<br><br><br>
+
+
+### **2. 협업의 어려움**
+
+  - 소통이 중요한 이유 
+
+  - Git
+
+<br><br><br>
+
+
+### **3. JPA (Java Persistence API) 의 사용**
