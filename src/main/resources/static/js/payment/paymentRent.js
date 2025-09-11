@@ -304,8 +304,7 @@ if(document.querySelector('.select-cupon')){
     console.log(`선택된 쿠폰 ID : ${dataSetcuponId}`);
     console.log(`할인 금액 : ${value}`);
 
-    // 쿠폰 할인에 표시
-    document.querySelector('.usingCupon').textContent = `${value} 원`;
+    // 쿠폰 할인에 표시, document.querySelector('.usingCupon').textContent = `${value} 원`;
 
     // 할인 금액에 표시
     document.querySelector('.cuponPrice').textContent = `${e.target.value}`;
