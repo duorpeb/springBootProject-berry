@@ -183,7 +183,9 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 <br><br><br>
 
 > **📗 관리자 페이지 - 리뷰 관리** <br>
->> <img width="350" height="304" alt="image" src="https://github.com/user-attachments/assets/4590662b-9465-4c3d-bac4-07f13fc555b7" /> <img width="350" height="306" alt="image" src="https://github.com/user-attachments/assets/b3c0100d-925a-40b2-9627-fb025bede7e6" /> <br><br><br>
+>> <img width="350" height="304" alt="image" src="https://github.com/user-attachments/assets/4590662b-9465-4c3d-bac4-07f13fc555b7" /> <img width="350" height="306" alt="image" src="https://github.com/user-attachments/assets/b3c0100d-925a-40b2-9627-fb025bede7e6" />
+
+<br><br><br>
 
 > **📗 관리자 페이지 - 예약 내역 관리 : 예약 완료 내역** <br>
 >> <img width="350" height="579" alt="image" src="https://github.com/user-attachments/assets/912b445f-e5d7-4ca7-bd54-6c6bfc1efba0" /> <img width="350" height="569" alt="image" src="https://github.com/user-attachments/assets/834758be-c4c4-47a7-ac75-91f50abeea33" />
