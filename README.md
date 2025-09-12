@@ -170,32 +170,32 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 > **📗 관리자 페이지 - 전체 유저 정보 출력**
 <br>
 
->> <img width="500" height="544" alt="image" src="https://github.com/user-attachments/assets/f23b831d-8eee-4bc0-8d36-3016c943bb98" /> <img width="500" height="481" alt="image" src="https://github.com/user-attachments/assets/17b0cb55-fe11-4df0-9245-8abfc5637988" /> <br><br><br>
+>> <img width="350" height="544" alt="image" src="https://github.com/user-attachments/assets/f23b831d-8eee-4bc0-8d36-3016c943bb98" /> <img width="350" height="481" alt="image" src="https://github.com/user-attachments/assets/17b0cb55-fe11-4df0-9245-8abfc5637988" /> <br><br><br>
 
 > **📗 관리자 페이지 - 고객 문의 관리**
 <br>
 
->> <img width="500" height="785" alt="image" src="https://github.com/user-attachments/assets/ba9a3d96-524f-437f-8845-385713004363" /> <img width="500" height="772" alt="image" src="https://github.com/user-attachments/assets/915c1bfa-5156-4e2b-87cf-7d35276eaf1e" /> <br><br><br>
+>> <img width="350" height="785" alt="image" src="https://github.com/user-attachments/assets/ba9a3d96-524f-437f-8845-385713004363" /> <img width="350" height="772" alt="image" src="https://github.com/user-attachments/assets/915c1bfa-5156-4e2b-87cf-7d35276eaf1e" /> <br><br><br>
 
 > **📗 관리자 페이지 - 결제 관리**
 <br>
 
->> <img width="500" height="573" alt="image" src="https://github.com/user-attachments/assets/273a444e-58a5-48d6-af81-9e2a2cadab42" /> <img width="500" height="582" alt="image" src="https://github.com/user-attachments/assets/f8052b20-bbe6-4712-98ec-b7c34b3f4b78" /> <br><br><br>
+>> <img width="350" height="573" alt="image" src="https://github.com/user-attachments/assets/273a444e-58a5-48d6-af81-9e2a2cadab42" /> <img width="350" height="582" alt="image" src="https://github.com/user-attachments/assets/f8052b20-bbe6-4712-98ec-b7c34b3f4b78" /> <br><br><br>
 
 > **📗 관리자 페이지 - 리뷰 관리**
 <br>
 
->> <img width="500" height="304" alt="image" src="https://github.com/user-attachments/assets/4590662b-9465-4c3d-bac4-07f13fc555b7" /> <img width="500" height="306" alt="image" src="https://github.com/user-attachments/assets/b3c0100d-925a-40b2-9627-fb025bede7e6" /> <br><br><br>
+>> <img width="350" height="304" alt="image" src="https://github.com/user-attachments/assets/4590662b-9465-4c3d-bac4-07f13fc555b7" /> <img width="350" height="306" alt="image" src="https://github.com/user-attachments/assets/b3c0100d-925a-40b2-9627-fb025bede7e6" /> <br><br><br>
 
 > **📗 관리자 페이지 - 예약 내역 관리 : 예약 완료 내역**
 <br>
 
->> <img width="500" height="579" alt="image" src="https://github.com/user-attachments/assets/912b445f-e5d7-4ca7-bd54-6c6bfc1efba0" /> <img width="500" height="569" alt="image" src="https://github.com/user-attachments/assets/834758be-c4c4-47a7-ac75-91f50abeea33" /> <br><br><br>
+>> <img width="350" height="579" alt="image" src="https://github.com/user-attachments/assets/912b445f-e5d7-4ca7-bd54-6c6bfc1efba0" /> <img width="350" height="569" alt="image" src="https://github.com/user-attachments/assets/834758be-c4c4-47a7-ac75-91f50abeea33" /> <br><br><br>
 
 > **📗 관리자 페이지 - 예약 내역 관리 : 숙소별 정보** 
 <br>
 
->> <img width="500" height="656" alt="image" src="https://github.com/user-attachments/assets/fb136722-727d-44de-bf14-cec50454a787" /> <img width="500" height="657" alt="image" src="https://github.com/user-attachments/assets/3be27c10-a364-4da0-853d-42ae0454daa9" /> <br><br><br>
+>> <img width="350" height="656" alt="image" src="https://github.com/user-attachments/assets/fb136722-727d-44de-bf14-cec50454a787" /> <img width="350" height="657" alt="image" src="https://github.com/user-attachments/assets/3be27c10-a364-4da0-853d-42ae0454daa9" /> <br><br><br>
 
 > **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 생성**
 <br>
