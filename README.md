@@ -217,11 +217,13 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 
   - 팀 회의를 통해 room TABLE 의 stock_count 라는 변수를 두어 stock_count 로 대실 · 숙박 예약의 객실 수에 제한을 두고 stock_count 가 0 이 아닌 경우에만 예약이 가능 (예약이 성공적으로 완료된 경우 stock_count - 1) 
 
-  - 각 숙소의 객실 이용 가능 시간만큼만 대실 예약을 가능하게 하고 예약하려는 시간대에 예약이 이미 되어있는 경우 이용 시간 버튼 비활성화   
+  - 각 숙소의 객실 이용 가능 시간만큼만 대실 예약을 가능하게 하고 예약하려는 시간대에 예약이 이미 되어있는 경우 이용 시간 버튼 비활성화
 
+<br><br><br>
 
 
 ### 🖥️ 숙소 예약 시 로그인하지 않은 유저의 페이지 이동 (숙소 상세 조회 페이지 → 로그인 페이지 → 숙소 상세 조회 페이지, 웹 로그인의 경우에만) 
+<br><br><br>
 
 ### 🖥️ <img src="https://img.shields.io/badge/flatpickr-6C757D?style=for-the-badge"/> 를 활용해 검색 바의 기간 입력 부분 디자인  
 
