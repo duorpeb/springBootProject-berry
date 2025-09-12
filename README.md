@@ -123,9 +123,8 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 
 > **📗 프로젝트에서 구현한 결제 흐름**
 
-<img width="800" height="471" alt="image" src="https://github.com/user-attachments/assets/09244ada-cf88-4cbe-a988-ead73bd01a79" /> <br><br>
+<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/5798532e-bc04-42cd-b908-57ea7c58a7c5" /> <br><br>
 
-<img width="800" height="498" alt="image" src="https://github.com/user-attachments/assets/8861df80-28c9-4d94-bcb5-40baf994cc74" /> <br><br>
 
 
 
