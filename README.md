@@ -102,19 +102,19 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 
 > **📗 결제 TABLE**
 
-<img width="863" height="452" alt="image" src="https://github.com/user-attachments/assets/56aa957b-4874-4893-a65a-e37060a21b94" /> <br><br><br>
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/56aa957b-4874-4893-a65a-e37060a21b94" /> <br><br><br>
 
 > **📗 예약 TABLE**
 
-<img width="374" height="285" alt="image" src="https://github.com/user-attachments/assets/dec85b66-b5b4-4187-ab8e-d9da757c614c" /> <br><br><br>
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/dec85b66-b5b4-4187-ab8e-d9da757c614c" /> <br><br><br>
 
 
 > **📗 쿠폰 TABLE**
 
-<img width="435" height="516" alt="image" src="https://github.com/user-attachments/assets/76faedb4-6639-4882-a908-232e8e982546" /> <br><br><br>
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/76faedb4-6639-4882-a908-232e8e982546" /> <br><br><br>
 
 
-### 🖥️ 결제 페이지의 UI 디자인 및 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 를 이용한 결제 (결제 · 환불) 기능 구현 
+### 🖥️ 결제 페이지의 UI 디자인 및 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 를 이용한 결제 (결제 및 결제 취소) 기능 구현 
 <br>
 
 > **📗 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 에서 제공하는 결제 흐름도**
@@ -122,21 +122,23 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 <img width="900" height="334" alt="image" src="https://github.com/user-attachments/assets/0ae87291-2da2-47b6-bc62-e244b44492fa" /> <br><br><br>
 
 
-> **📗 프로젝트에서 구현한 결제 흐름**
+> **📗 프로젝트에서 구현한 결제 흐름 (대실 예약을 하는 경우)**
 
-<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/5798532e-bc04-42cd-b908-57ea7c58a7c5" /> <br><br>
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a7ff151b-1461-4455-ace5-4830c33fe722" /> <br><br>
 
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/0f212af8-8486-4fe6-921c-f4c5fd5568e6" /> <br><br>
 
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a6c3534b-37d5-4c09-8268-421d73875f5f" /> <br><br>
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/87e6ee9d-d417-4e76-95e4-850356978e7c" /> <br><br>
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ee68c6ab-6959-434a-b86b-1b5fe3adbd84" /> <br><br>
+
+<img width="600" height="110" alt="image" src="https://github.com/user-attachments/assets/29a9dc2d-f48b-4dd4-b627-7b76b7c06d33" /> <br><br>
+
+<img width="600" height="110" alt="image" src="https://github.com/user-attachments/assets/ee9f7c39-edd7-4891-847d-54fd98bdd00e" />
 <br><br><br>
 
-
-> **📗 <img src="https://img.shields.io/badge/Toss%20Payments%20API-0064FF?style=for-the-badge"/> 를 활용한 환불 구현 (마이페이지의 예약 정보에서 예약취소 버튼을 눌러 환불 진행)** 
-
-<img width="600" height="698" alt="image" src="https://github.com/user-attachments/assets/f7276eba-2ed8-4b90-a666-3c6de428a5d3" /> <br><br>
-
-<img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/0c89e526-e847-47f7-abb2-f6659f2be76e" /> <br><br>
-
-<img width="600" height="164" alt="image" src="https://github.com/user-attachments/assets/5cb0d7fa-c146-4f74-ae1e-18e40da93384" /> <br><br><br>
 
 > **📗 환불 정책**
 
@@ -197,17 +199,17 @@ https://www.canva.com/design/DAGv6v8MkSU/hG1Kxq2-JjKDdbgXhbkgOA/edit
 > **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 생성**
 <br>
 
-<img width="1050" height="729" alt="image" src="https://github.com/user-attachments/assets/ea506922-e8a7-4bca-bd2c-6456ccc6f667" /> <br><br><br>
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/ea506922-e8a7-4bca-bd2c-6456ccc6f667" /> <br><br><br>
 
 > **📗 관리자 페이지 - 쿠폰 관리 : 쿠폰 발급 및 삭제**
 <br>
 
-<img width="904" height="439" alt="image" src="https://github.com/user-attachments/assets/bff886ec-2669-432c-80b3-cfa4aa8aac9d" /> <br><br><br>
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/bff886ec-2669-432c-80b3-cfa4aa8aac9d" /> <br><br><br>
 
 > **📗 관리자 페이지 - 쿠폰 관리 : 생성한 쿠폰의 관리 (e.g., 첫 회원가입 할인 쿠폰)**
 <br>
 
-<img width="1050" height="694" alt="image" src="https://github.com/user-attachments/assets/4b476118-ce7e-4e31-9ef5-2a7e4716f67a" /> <br><br><br>
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/4b476118-ce7e-4e31-9ef5-2a7e4716f67a" /> <br><br><br>
 
 
 ### 🖥️ 예약 시스템 구현 
